@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
 // = hello world
 
@@ -57,16 +57,16 @@ using namespace std;
 
 // = loops
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-int main() {
+// int main() {
   
-  	// For loop that starts with i = 1 and ends
-  	// when i is greater than 5.
-    for (int i = 1; i <= 5; i++) {
-        cout << i << " ";
-    }
-    return 0;
-}
+//   	// For loop that starts with i = 1 and ends
+//   	// when i is greater than 5.
+//     for (int i = 1; i <= 5; i++) {
+//         cout << i << " ";
+//     }
+//     return 0;
+// }
 

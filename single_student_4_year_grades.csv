@@ -1,0 +1,33 @@
+Year,Semester,Course_Code,Course_Title,Credits,Grade,Numeric_Grade
+Freshman,Fall,MATH-101,Calculus I,4,A,4.0
+Freshman,Fall,ENG-101,English Composition,3,A-,3.7
+Freshman,Fall,CHEM-111,General Chemistry I,4,B+,3.3
+Freshman,Fall,HIST-105,Western Civilization,3,B,3.0
+Freshman,Spring,MATH-102,Calculus II,4,A,4.0
+Freshman,Spring,PHYS-211,General Physics I,4,B-,2.7
+Freshman,Spring,CS-101,Intro to Computer Science,3,A,4.0
+Freshman,Spring,ENG-102,Literature & Research,3,B+,3.3
+Sophomore,Fall,MATH-201,Multivariable Calculus,4,B,3.0
+Sophomore,Fall,CS-201,Data Structures,4,A-,3.7
+Sophomore,Fall,PHYS-212,General Physics II,4,B,3.0
+Sophomore,Fall,STAT-251,Statistical Methods,3,A,4.0
+Sophomore,Spring,CS-202,Computer Organization,4,B+,3.3
+Sophomore,Spring,MATH-202,Linear Algebra,3,A-,3.7
+Sophomore,Spring,BIOL-101,Intro to Biology,4,A,4.0
+Sophomore,Spring,COMM-101,Public Speaking,3,A,4.0
+Junior,Fall,CS-301,Design & Analysis of Algorithms,4,B+,3.3
+Junior,Fall,CS-311,Operating Systems,4,B-,2.7
+Junior,Fall,MATH-301,Discrete Mathematics,3,A-,3.7
+Junior,Fall,PHIL-201,Introduction to Ethics,3,A,4.0
+Junior,Spring,CS-321,Software Engineering,4,A,4.0
+Junior,Spring,CS-331,Database Systems,4,A-,3.7
+Junior,Spring,CS-341,Web Development,3,B+,3.3
+Junior,Spring,ECON-101,Macroeconomics,3,B,3.0
+Senior,Fall,CS-490,Senior Capstone I,3,A,4.0
+Senior,Fall,CS-411,Artificial Intelligence,4,B+,3.3
+Senior,Fall,CS-421,Compiler Design,4,B,3.0
+Senior,Fall,PSYCH-101,Intro to Psychology,3,A,4.0
+Senior,Spring,CS-491,Senior Capstone II,3,A,4.0
+Senior,Spring,CS-460,Cybersecurity,4,A,4.0
+Senior,Spring,CS-480,Machine Learning,4,B+,3.3
+Senior,Spring,MUS-101,Music History,3,A,4.0
